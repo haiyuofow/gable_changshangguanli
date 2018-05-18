@@ -7,4 +7,5 @@
   * [维护销售组织架构](chapter1/wei-hu-xiao-shou-zu-zhi-jia-gou.md)
 * [培训管理](chapter1/pei-xun-guan-li.md)
 * [用户管理](yong-hu-guan-li.md)
+* [问题汇总](wen-ti-hui-zong.md)
 
