@@ -10,5 +10,3 @@
 * [样机管理](yang-ji-guan-li.md)
 * [培训管理](chapter1/pei-xun-guan-li.md)
 * [投诉管理](tou-su-guan-li.md)
-* [问题汇总](wen-ti-hui-zong.md)
-
