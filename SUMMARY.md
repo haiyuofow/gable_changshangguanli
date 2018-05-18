@@ -8,4 +8,5 @@
 * [培训管理](chapter1/pei-xun-guan-li.md)
 * [用户管理](yong-hu-guan-li.md)
 * [问题汇总](wen-ti-hui-zong.md)
+* [投诉管理](tou-su-guan-li.md)
 
