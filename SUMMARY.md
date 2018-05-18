@@ -10,4 +10,6 @@
 * [用户管理](yong-hu-guan-li.md)
 * [问题汇总](wen-ti-hui-zong.md)
 * [投诉管理](tou-su-guan-li.md)
+* [运维管理](yun-wei-guan-li.md)
+  * [寄修管理](yun-wei-guan-li/ji-xiu-guan-li.md)
 
