@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [基础信息录入](chapter1.md)
   * [新增人员信息](chapter1/xin-zeng-she-bei-xin-xi.md)
   * [新增设备信息](chapter1/xin-zeng-ren-yuan-xin-xi.md)
