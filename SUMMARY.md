@@ -16,5 +16,6 @@
 * [样机管理](yang-ji-guan-li.md)
 * [培训管理](chapter1/pei-xun-guan-li.md)
 * [投诉管理](tou-su-guan-li.md)
+* [功能列表](gong-neng-lie-biao.md)
 * [常见问题](chang-jian-wen-ti.md)
 
