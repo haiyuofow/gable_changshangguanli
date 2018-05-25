@@ -1,11 +1,12 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [基础信息维护](chapter1.md)
   * [新增人员信息](chapter1/xin-zeng-she-bei-xin-xi.md)
   * [新增设备信息](chapter1/xin-zeng-ren-yuan-xin-xi.md)
   * [维护销售组织架构](chapter1/wei-hu-xiao-shou-zu-zhi-jia-gou.md)
   * [更换二维码](chapter1/geng-huan-er-wei-ma.md)
+  * [帐号注册](chapter1/zhang-hao-zhu-ce.md)
 * [运维管理](yun-wei-guan-li.md)
   * [维修管理](yun-wei-guan-li/wei-xiu-guan-li.md)
   * [寄修管理](yun-wei-guan-li/ji-xiu-guan-li.md)
@@ -15,4 +16,5 @@
 * [样机管理](yang-ji-guan-li.md)
 * [培训管理](chapter1/pei-xun-guan-li.md)
 * [投诉管理](tou-su-guan-li.md)
+* [常见问题](chang-jian-wen-ti.md)
 
