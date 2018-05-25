@@ -8,6 +8,8 @@
 * [运维管理](yun-wei-guan-li.md)
   * [维修管理](yun-wei-guan-li/wei-xiu-guan-li.md)
   * [寄修管理](yun-wei-guan-li/ji-xiu-guan-li.md)
+  * [保养管理](yun-wei-guan-li/bao-yang-guan-li.md)
+  * [安装管理](yun-wei-guan-li/an-zhuang-guan-li.md)
 * [样机管理](yang-ji-guan-li.md)
 * [培训管理](chapter1/pei-xun-guan-li.md)
 * [投诉管理](tou-su-guan-li.md)
