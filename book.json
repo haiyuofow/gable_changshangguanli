@@ -6,6 +6,7 @@
     "language": "zh-hans",
     "plugins": [
         "-lunr",
+        "-sharing",
         "-search",
         "-highlight",
         "-livereload",
